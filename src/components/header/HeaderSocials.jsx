@@ -3,6 +3,8 @@ import { BsLinkedin } from "react-icons/bs";
 import { BsGithub } from "react-icons/bs";
 import { BsFacebook } from "react-icons/bs";
 import { BsInstagram } from "react-icons/bs";
+import { MdOutlineEmail } from "react-icons/md";
+import { FiPhoneCall } from "react-icons/fi";
 import { BsWhatsapp } from "react-icons/bs";
 
 const HeaderSocials = () => {
@@ -25,6 +27,12 @@ const HeaderSocials = () => {
         target="_black"
       >
         <BsInstagram />
+      </a>
+      <a href="mailto:aliasgerburhanpurwala857@gmail.com">
+        <MdOutlineEmail />
+      </a>
+      <a href="tel:+91 8793987499">
+        <FiPhoneCall />
       </a>
       <a href="https://wa.me/+918793987499" target="_black">
         <BsWhatsapp />
