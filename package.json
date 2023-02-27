@@ -1,6 +1,5 @@
 {
-    "homepage": "https://aliasger53.github.io/Aliasger_Portfolio",
-    "name": "Aliasger-portfolio",
+    "name": "aliasger__portfolio",
     "version": "0.1.0",
     "private": true,
     "dependencies": {
