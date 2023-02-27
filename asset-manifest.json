@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/Aliasger_Portfolio/static/css/main.d45c6b9e.css",
+    "main.css": "/Aliasger_Portfolio/static/css/main.166449ee.css",
     "main.js": "/Aliasger_Portfolio/static/js/main.e2a66961.js",
     "static/media/cv.pdf": "/Aliasger_Portfolio/static/media/cv.82408b263c116cc2e13c.pdf",
     "static/media/me-about.jpg": "/Aliasger_Portfolio/static/media/me-about.cd2f2f11d38ed19c85a3.jpg",
@@ -12,11 +12,11 @@
     "static/media/portfolio3.jpg": "/Aliasger_Portfolio/static/media/portfolio3.cbab42559fe73e73906f.jpg",
     "static/media/portfolio4.jpg": "/Aliasger_Portfolio/static/media/portfolio4.6bf60cbb8fe5f7d7af5d.jpg",
     "index.html": "/Aliasger_Portfolio/index.html",
-    "main.d45c6b9e.css.map": "/Aliasger_Portfolio/static/css/main.d45c6b9e.css.map",
+    "main.166449ee.css.map": "/Aliasger_Portfolio/static/css/main.166449ee.css.map",
     "main.e2a66961.js.map": "/Aliasger_Portfolio/static/js/main.e2a66961.js.map"
   },
   "entrypoints": [
-    "static/css/main.d45c6b9e.css",
+    "static/css/main.166449ee.css",
     "static/js/main.e2a66961.js"
   ]
 }
