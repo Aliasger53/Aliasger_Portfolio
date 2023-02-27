@@ -3,8 +3,35 @@ import "./contact.css";
 import { MdOutlineEmail } from "react-icons/md";
 import { FiPhoneCall } from "react-icons/fi";
 import { BsWhatsapp } from "react-icons/bs";
+import { useRef } from "react";
+import emailjs from "emailjs-com";
 
 const Contact = () => {
+  const form = useRef();
+
+  const sendEmail = (e) => {
+    e.preventDefault();
+
+    emailjs
+      .sendForm(
+        "service_45e1tc5",
+        "template_jljjbsv",
+        form.current,
+        "cCaq0zjVXzrCXYaFF"
+      )
+      .then(
+        (result) => {
+          console.log(result.text);
+          e.target.reset();
+          alert("Your message has been sent");
+        },
+        (error) => {
+          console.log(error.text);
+          alert("Your message could not be sent, please try again");
+        }
+      );
+  };
+
   return (
     <section id="contact">
       <h5>Get In Touch</h5>
@@ -36,7 +63,7 @@ const Contact = () => {
         </div>
 
         {/* End of contact options */}
-        <form action="">
+        <form ref={form} onSubmit={sendEmail}>
           <input
             type="text"
             name="name"

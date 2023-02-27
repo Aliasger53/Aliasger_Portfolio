@@ -51,7 +51,10 @@ textarea {
     border: 2px solid var(--color-primary-variant);
     resize: none;
     color: var(--color-white);
-    /* font-size: 300; */
+}
+
+button {
+    align-self: center;
 }
 
 /*=====Media Queries(Medium Devices)=====*/
