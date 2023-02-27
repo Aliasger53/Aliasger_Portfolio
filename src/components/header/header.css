@@ -1,6 +1,6 @@
 header {
     height: 180vh;
-    padding-top: 4rem;
+    padding-top: 3rem;
     overflow: hidden;
 }
 
@@ -27,7 +27,7 @@ header {
     position: absolute;
     left: 0;
     bottom: 0rem;
-    top: 26rem;
+    top: 24.5rem;
     z-index: 2;
 }
 
@@ -55,7 +55,7 @@ header {
 .scroll__down {
     position: absolute;
     right: -2.3rem;
-    bottom: 10rem;
+    bottom: 8rem;
     transform: rotate(90deg);
     font-weight: 300;
     font-size: 0.9rem;
@@ -73,7 +73,7 @@ header {
     }
 
     .scroll__down {
-        bottom: 10rem;
+        bottom: 20rem;
     }
 }
 
