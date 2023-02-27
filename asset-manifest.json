@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/static/css/main.d45c6b9e.css",
-    "main.js": "/static/js/main.ae6a527a.js",
-    "static/media/cv.pdf": "/static/media/cv.82408b263c116cc2e13c.pdf",
-    "static/media/me-about.jpg": "/static/media/me-about.cd2f2f11d38ed19c85a3.jpg",
-    "static/media/me.png": "/static/media/me.87c185d311f2e10d31f7.png",
-    "static/media/portfolio5.png": "/static/media/portfolio5.a82ae9a163c1ac5e3a07.png",
-    "static/media/portfolio2.jpg": "/static/media/portfolio2.ae187bc4e43ae6dbc263.jpg",
-    "static/media/portfolio6.jpg": "/static/media/portfolio6.72d1107e313049cf15a7.jpg",
-    "static/media/portfolio1.jpg": "/static/media/portfolio1.f5e72352e5aa840702b8.jpg",
-    "static/media/portfolio3.jpg": "/static/media/portfolio3.cbab42559fe73e73906f.jpg",
-    "static/media/portfolio4.jpg": "/static/media/portfolio4.6bf60cbb8fe5f7d7af5d.jpg",
-    "index.html": "/index.html",
-    "main.d45c6b9e.css.map": "/static/css/main.d45c6b9e.css.map",
-    "main.ae6a527a.js.map": "/static/js/main.ae6a527a.js.map"
+    "main.css": "/Aliasger_Portfolio/static/css/main.d45c6b9e.css",
+    "main.js": "/Aliasger_Portfolio/static/js/main.e2a66961.js",
+    "static/media/cv.pdf": "/Aliasger_Portfolio/static/media/cv.82408b263c116cc2e13c.pdf",
+    "static/media/me-about.jpg": "/Aliasger_Portfolio/static/media/me-about.cd2f2f11d38ed19c85a3.jpg",
+    "static/media/me.png": "/Aliasger_Portfolio/static/media/me.87c185d311f2e10d31f7.png",
+    "static/media/portfolio5.png": "/Aliasger_Portfolio/static/media/portfolio5.a82ae9a163c1ac5e3a07.png",
+    "static/media/portfolio2.jpg": "/Aliasger_Portfolio/static/media/portfolio2.ae187bc4e43ae6dbc263.jpg",
+    "static/media/portfolio6.jpg": "/Aliasger_Portfolio/static/media/portfolio6.72d1107e313049cf15a7.jpg",
+    "static/media/portfolio1.jpg": "/Aliasger_Portfolio/static/media/portfolio1.f5e72352e5aa840702b8.jpg",
+    "static/media/portfolio3.jpg": "/Aliasger_Portfolio/static/media/portfolio3.cbab42559fe73e73906f.jpg",
+    "static/media/portfolio4.jpg": "/Aliasger_Portfolio/static/media/portfolio4.6bf60cbb8fe5f7d7af5d.jpg",
+    "index.html": "/Aliasger_Portfolio/index.html",
+    "main.d45c6b9e.css.map": "/Aliasger_Portfolio/static/css/main.d45c6b9e.css.map",
+    "main.e2a66961.js.map": "/Aliasger_Portfolio/static/js/main.e2a66961.js.map"
   },
   "entrypoints": [
     "static/css/main.d45c6b9e.css",
-    "static/js/main.ae6a527a.js"
+    "static/js/main.e2a66961.js"
   ]
 }
